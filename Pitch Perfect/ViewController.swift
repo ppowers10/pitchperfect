@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         
     }
 
-    @IBAction func stopRecord(sender: UIButton) {
+    @IBAction func stopRecording(sender: UIButton) {
         print("Stop Recording")
         stopButton.hidden = true
     }

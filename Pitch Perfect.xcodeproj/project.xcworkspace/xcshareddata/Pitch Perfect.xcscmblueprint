@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5DF2C81722BF11E0D06DE481632BE262E4A0ACBF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5DF2C81722BF11E0D06DE481632BE262E4A0ACBF" : 0,
+    "04703B13C3AF433525965EE9DB38933518E9D087" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E7765A5F-E81C-453B-B8BD-E69857DB57F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5DF2C81722BF11E0D06DE481632BE262E4A0ACBF" : "Pitch%20Perfect\/",
+    "04703B13C3AF433525965EE9DB38933518E9D087" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pitch Perfect",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Pitch Perfect.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ppowers10\/iOS-Practice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04703B13C3AF433525965EE9DB38933518E9D087"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ppowers10\/pitchperfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DF2C81722BF11E0D06DE481632BE262E4A0ACBF"
+    }
+  ]
+}
