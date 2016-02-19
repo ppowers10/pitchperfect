@@ -47,7 +47,7 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
         audioRecorder.record()
         
         print("in recordAudio")
-        recordingInProgress.hidden = false
+        recordingInProgress.text = "Recording"
         stopButton.hidden = false
         
     }
@@ -66,6 +66,7 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
             let playSoundsVC:PlaySoundsViewController = segue.destinationViewController as! PlaySoundsViewController
             let data = sender as! RecordedAudio
             playSoundsVC.receievedAudio = data
+            recordingInProgress.text = "Tap To Record"
         }
     }
 
